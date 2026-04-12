@@ -12047,6 +12047,20 @@ var SETDEX_SV = {
   },
   "Lanturn": {
     "Fisherman Elliot & Fisherman Ned": {
+      "level": 44,
+      "ability": "Volt Absorb",
+      "status": "Healthy",
+      "moves": [
+        "Surf",
+        "Thunderbolt",
+        "Volt Switch",
+        "Ice Beam"
+      ],
+      "nature": "Timid",
+      "item": "Luminous Moss",
+      "index": 574
+    },
+    "Fisherman Elliot & Fisherman Ned": {
       "level": 43,
       "ability": "Water Absorb",
       "status": "Healthy",
